@@ -8,7 +8,7 @@ function Work() {
     <>
     <section id="work" >
       <div className="container_work">
-        <div className="title"><span>My Woks</span></div>
+        <div className="title"><span>My Works</span></div>
         <p className='txt_desc'>Check out some of my works</p>
             <div className="work1-box">
               {WorkList.map((workItem, key) => {
