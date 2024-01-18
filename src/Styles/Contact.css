@@ -73,6 +73,10 @@ textarea.form_control1 {
   background-color: #e874d3;
 }
 
+.button:focus {
+  outline: none; /* Remove the focus border when the button is focused */
+}
+
 .footer_copy {
   margin-top: 20px;
   text-align: center;

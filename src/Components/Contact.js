@@ -106,6 +106,7 @@ function Contact() {
                                   placeholder='Your Name'
                                   data-rule='minlen:4'
                                   data-msg='Please enter at least 4 chars'
+                                  required 
                                 />
                                 <div className='validation' />
                               </div>
@@ -122,6 +123,7 @@ function Contact() {
                                   placeholder='Your Email'
                                   data-rule='email'
                                   data-msg='Please enter a valid email'
+                                  required 
                                 />
                                 <div className='validation' />
                               </div>
@@ -138,6 +140,7 @@ function Contact() {
                                   data-rule='minlen:4'
                                   data-msg='Please write something for us'
                                   placeholder='Message'
+                                  required 
                                 />
                                 <div className='validation' />
                               </div>

@@ -1145,33 +1145,34 @@ footer .credits a {
   user-select: none;
   font-size: 1rem;
   border-radius: .3rem;
-  border: 1px solid transparent;
+  /* border: 1px solid transparent; */
   transition: all 500ms ease;
   cursor: pointer;
 }
 
 .button:focus {
   outline: 0;
+  border:none;
 }
 
-.button:hover {
+/* .button:hover {
   background-color: #be88d1;
   color: #fff;
   transition: all 500ms ease;
-}
+} */
 
-.button-a {
+/* .button-a {
   background-color: #be88d1;
   color: #fff;
   border-color: #cde1f8;
-}
+} */
 
 .button-big {
   padding: .9rem 2.3rem;
   font-size: 1.2rem;
 }
 
-.button-rouded {
+/* .button-rouded {
   border-radius: 5rem;
 }
 
@@ -1180,7 +1181,7 @@ footer .credits a {
   font-size: 1.25rem;
   line-height: 1.5;
   border-radius: .3rem;
-}
+} */
 
 @media (min-width: 577px) {
   .counter-box {
@@ -1241,7 +1242,7 @@ footer .credits a {
   .widget-sidebar {
     padding: 3rem;
   }
-
+ 
   .blog-wrapper .article-title {
     font-size: 1.9rem;
   }
