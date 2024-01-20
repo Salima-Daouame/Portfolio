@@ -1,5 +1,6 @@
 import work1 from '../images/Works/Work1.PNG'
 import work2 from '../images/Works/Work2.PNG'
+import work3 from '../images/Works/Work3.PNG'
 
 export const WorkList = [
   {
@@ -9,16 +10,16 @@ export const WorkList = [
     link: "https://pptsite-react-salima-daouames-projects.vercel.app/"
   },
   {
-    title: "AMILAS Small business",
+    title: "Tour management",
     name: "Asp.net WebForm|C#",
     image: work2,
     link: "http://tour-management.com/Index.aspx"
   },
   {
-    title: "AMILAS Small business",
-    name: "ReactJs",
-    image: work1,
-    link: "https://pptsite-react-salima-daouames-projects.vercel.app/"
+    title: "ToDo List",
+    name: "ReactJs|Tailwindcss",
+    image: work3,
+    link: "https://todolist-dm.netlify.app/"
   },
 
 ];
