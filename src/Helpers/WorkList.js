@@ -13,7 +13,7 @@ export const WorkList = [
     title: "Tour management",
     name: "Asp.net WebForm|C#",
     image: work2,
-    link: "http://tour-management.com/Index.aspx"
+    link: "http://192.168.0.116:8083/Index.aspx"
   },
   {
     title: "ToDo List",

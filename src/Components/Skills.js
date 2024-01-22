@@ -4,6 +4,7 @@ import Html from '../images/Languages/html.png'
 import css from '../images/Languages/css3.png'
 import js from '../images/Languages/javascript.png'
 import reactjs from '../images/Languages/Reactjs.png'
+import tailwindcss from '../images/Languages/tailwindcss.png'
 import bootstrap from '../images/Languages/bootstrap.png'
 import github from '../images/Languages/github.png'
 import mysql from '../images/Languages/mysql.png'
@@ -47,6 +48,13 @@ function Skills() {
                 <img src={reactjs} className='languages_p' alt="" />
               </div>
               <div className="topic">ReactJs</div>
+            </div>
+
+            <div className="box">
+              <div className="img_lang">
+                <img src={tailwindcss} className='languages_p' alt="" />
+              </div>
+              <div className="topic">Tailwindcss</div>
             </div>
 
             <div className="box">
