@@ -20,7 +20,7 @@ function About() {
             <div class="text_left">
               <p>Building exceptional software that improves the lives of those around me is my passion.
                 With a primary dedication to developing Front End and Back End Web Applications.
-                I have knowledge in HTML, CSS, ReactJs,Tailwindcss, JavaScript, C, C#, Asp.Net, and Java.
+                I have knowledge in HTML, CSS, ReactJs, Laravel-php,Tailwindcss, JavaScript, C, C#, Asp.Net web form, and Java.
                 <br />I find joy in converting abstract concepts into tangible, functional code. My passion lies in the art of converting ideas into beautiful web applications, creating an immersive user experience.Imagine being able to have a skilled Web Developer within reach.
                 I bring dreams to life through seamless code and striking design.</p>
             </div>

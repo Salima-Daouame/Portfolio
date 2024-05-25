@@ -11,6 +11,7 @@ import mysql from '../images/Languages/mysql.png'
 import aspNet from '../images/Languages/aspNet.png'
 import cSharp from '../images/Languages/cSharp.png'
 import java from '../images/Languages/java.png'
+import laravel from '../images/Languages/laravel.png'
 
 function Skills() {
   return (
@@ -98,7 +99,12 @@ function Skills() {
               </div>
               <div className="topic">Java</div>
             </div>
-
+            <div className="box">
+              <div className="img_lang">
+                <img src={laravel} className='languages_p' alt="" />
+              </div>
+              <div className="topic">Laravel-php</div>
+            </div>
           </div>
         </div>
       </section>

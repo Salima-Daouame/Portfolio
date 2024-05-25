@@ -12,7 +12,7 @@ function Home() {
             <div className="container">
               <h1 className="intro-title mb-4">I'm Salima DAOUAME</h1>
               {/* <p className="intro-subtitle">Web Developer|</p> */}
-              <p className="intro-subtitle">Web Developer| Front-End & Back-End Development |<br/> IT | ASP.Net Web Developer | Reactjs | Tailwindcss </p>
+              <p className="intro-subtitle">Full-Stack web Developer <br/> ASP.Net Web Form | Laravel | Reactjs | Tailwindcss </p>
             </div>
           </div>
         </div>

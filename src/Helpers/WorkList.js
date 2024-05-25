@@ -2,6 +2,7 @@ import work1 from '../images/Works/Work1.PNG'
 import work2 from '../images/Works/Work2.PNG'
 import work3 from '../images/Works/Work3.PNG'
 import work4 from '../images/Works/Work4.PNG'
+import work5 from '../images/Works/work5.png'
 
 export const WorkList = [
   {
@@ -27,6 +28,12 @@ export const WorkList = [
     name: "ReactJs|Tailwindcss",
     image: work4,
     link: "https://hijabgirl.netlify.app/"
+  },
+  {
+    title: "Lima's E-commerce ",
+    name: "ReactJs|Tailwindcss|Laravel",
+    image: work5,
+    link: "/"
   },
 
 ];
