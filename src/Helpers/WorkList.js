@@ -30,7 +30,7 @@ export const WorkList = [
     link: "https://hijabgirl.netlify.app/"
   },
   {
-    title: "Lima's E-commerce ",
+    title: "Lima's E-commerce Dashbord ",
     name: "ReactJs|Tailwindcss|Laravel|Axios",
     image: work5,
     link: "https://github.com/Salima-Daouame/Limas-Dashbord"
