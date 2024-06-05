@@ -2,7 +2,7 @@ import work1 from '../images/Works/Work1.PNG'
 import work2 from '../images/Works/Work2.PNG'
 import work3 from '../images/Works/Work3.PNG'
 import work4 from '../images/Works/Work4.PNG'
-import work5 from '../images/Works/work5.png'
+import work5 from '../images/Works/Work5.PNG'
 
 export const WorkList = [
   {
@@ -31,9 +31,9 @@ export const WorkList = [
   },
   {
     title: "Lima's E-commerce ",
-    name: "ReactJs|Tailwindcss|Laravel",
+    name: "ReactJs|Tailwindcss|Laravel|Axios",
     image: work5,
-    link: "/"
+    link: "https://github.com/Salima-Daouame/Limas-Dashbord"
   },
 
 ];
