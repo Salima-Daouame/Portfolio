@@ -2,7 +2,7 @@ import work1 from '../images/Works/Work1.PNG'
 import work2 from '../images/Works/Work2.PNG'
 import work3 from '../images/Works/Work3.PNG'
 import work4 from '../images/Works/Work4.PNG'
-import work5 from '../images/Works/Work5.PNG'
+import work5 from  '../images/Work5.PNG'
 
 export const WorkList = [
   {
