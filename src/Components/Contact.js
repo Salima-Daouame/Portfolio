@@ -176,7 +176,7 @@ function Contact() {
                 <div className='copyright-box'>
                   <p className='copyright'>
                     Copyright © 2023 Built with ❤️ by{' '}
-                    <strong> Salima DAOUAME </strong>.
+                    <strong> Salima DM </strong>.
                   </p>
                 </div>
               </div>
