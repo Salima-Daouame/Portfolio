@@ -3,6 +3,7 @@ import work2 from '../images/Works/Work2.PNG'
 import work3 from '../images/Works/Work3.PNG'
 import work4 from '../images/Works/Work4.PNG'
 import work5 from  '../images/Work5.PNG'
+import work6 from '../images/Work6.PNG'
 
 export const WorkList = [
   {
@@ -35,5 +36,10 @@ export const WorkList = [
     image: work5,
     link: "https://github.com/Salima-Daouame/Limas-Dashbord"
   },
-
+  {
+    title: "Lima's E-commerce User ",
+    name: "ReactJs|Tailwindcss|Laravel|Axios",
+    image: work6,
+    link: "https://www.linkedin.com/feed/update/urn:li:activity:7219287338416287745/"
+  },
 ];
